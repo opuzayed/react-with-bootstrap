@@ -3,7 +3,7 @@ import React from "react";
 const Card = ({product}) => {
   return (
     <div className="card">
-      <img src="..." className="card-img-top" alt="..." />
+      <img src="https://images.pexels.com/photos/7753054/pexels-photo-7753054.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" className="card-img-top" alt="..." />
       <div className="card-body">
         <h5 className="card-title">{product.name}</h5>
         <p className="card-text">
